@@ -1,0 +1,14 @@
+.jimu-widget-elevationprofile {
+  position: absolute !important;
+  top: 5px;
+  left: 5px;
+  width: 95%;
+  height: 400px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 5px #ccc;
+}
+
+.jimu-widget-elevationprofile-chart {
+  height: 100%;
+}
